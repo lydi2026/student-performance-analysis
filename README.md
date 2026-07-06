@@ -1,5 +1,9 @@
 # Student Performance Analysis System
 
+Python | Pandas | Matplotlib
+
+Educational Data Analytics Project
+
 ## Overview
 
 This project analyzes simulated student performance data using Python and Pandas. It is designed to demonstrate how data analytics can help educators identify academic patterns, at-risk students, and performance levels.
@@ -40,4 +44,4 @@ Data analysis can help educators identify struggling students earlier and suppor
 
 ## Author
 
-Former educator transitioning into Information Technology Management and Data Analytics.
+Current High School Mathematics Teacher with a background in higher education, transitioning into Information Technology Management and Data Analytics.
